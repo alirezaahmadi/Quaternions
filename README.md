@@ -2,8 +2,8 @@
 
 ## A device (CUDA) compatible implementation of Quaternion mathematic mean.
 
-I have tried to put all conversions and useful functions related to quaternions in this library and IAm still working on it. 
-I a already working on it through my other projects but would be happy to get your feedback and company in my projects.
+I have tried to put all conversions and useful functions related to quaternions in this library and I am still working on it. 
+I would be happy to get your feedbacks too.
 
 
 --- 
